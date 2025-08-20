@@ -1,0 +1,18 @@
+.navbar-brand{
+    width: 50px;
+    height: 40;
+}
+.nav-link{
+    font-size: 1rem;
+  font-weight: bold;
+  color: #000000;
+}
+.nav-link:hover{
+    color: #29723a;
+   
+}
+.btn{
+    font-size: 1rem;
+  font-weight: bold;
+  
+}

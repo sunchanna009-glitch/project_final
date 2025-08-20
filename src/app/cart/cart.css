@@ -1,0 +1,45 @@
+
+  .cart-items li:hover {
+    background-color: #f9f9f9;
+  }
+  .cart-img{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+
+  .header{
+    font-size: 1rem;
+  font-weight: bold;
+  color: #29723a;
+
+  }
+
+  /* Make checkbox green when checked */
+.custom-check:checked {
+  background-color: #28a745;   /* Bootstrap green */
+  border-color: #28a745;
+}
+
+/* Optional: add a hover effect */
+.custom-check:hover {
+  cursor: pointer;
+  border-color: #28a745;
+}
+
+.cart-total {
+  color: red;
+  font-weight: bold;
+}
+.btn{
+  font-size: 1rem;
+  font-weight: bold;
+
+}
+
+.text-end{
+  color: red;
+  font-weight: bold;
+}
+
